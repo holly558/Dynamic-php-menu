@@ -1,4 +1,4 @@
-<!doctype html>
+<!Doctype html>
 <html lang="en">
 
 <head>
@@ -33,10 +33,6 @@
             </div>
 
             <section class="contact section-gap" id="contact-us">
-
-
-
-
                 <div class="container">
                     <div class="row g-5 ">
 
@@ -79,7 +75,6 @@
             </section>
 
         </main>
-
 
         <?php include 'footer.php';?>
 

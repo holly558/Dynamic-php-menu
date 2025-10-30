@@ -6,6 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hello, museum!</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -48,7 +49,7 @@
                                 <a href="#"><h4>Event on the rock solid carbon</h4></a>
                                 <h6><span>21st February</span> at Central government museum</h6>
                                 <p>
-                                    inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially.
+                                     Vivamus nec diam ut ipsum tincidunt ultricies. Vestibulum vitae arcu mi. 
                                 </p>
                                 <a href="#" class="primary-btn text-uppercase">View Details</a>
                             </div>
@@ -57,7 +58,7 @@
                                 <a href="#"><h4>Event on the rock solid carbon</h4></a>
                                 <h6><span>21st February</span> at Central government museum</h6>
                                 <p>
-                                    inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially.
+                                Vivamus nec diam ut ipsum tincidunt ultricies. Vestibulum vitae arcu mi. 
                                 </p>
                                 <a href="#" class="primary-btn text-uppercase">View Details</a>
                             </div>
@@ -67,7 +68,8 @@
                                 <a href="#"><h4>Event on the rock solid carbon</h4></a>
                                 <h6><span>21st February</span> at Central government museum</h6>
                                 <p>
-                                    inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially.
+                                 Vivamus nec diam ut ipsum tincidunt ultricies. Vestibulum vitae arcu mi. 
+
                                 </p>
                                 <a href="#" class="primary-btn text-uppercase">View Details</a>
                                 <img class="img-fluid" src="img/u2.jpg" alt="">
@@ -77,7 +79,7 @@
                                 <a href="#"><h4>Event on the rock solid carbon</h4></a>
                                 <h6><span>21st February</span> at Central government museum</h6>
                                 <p>
-                                    inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially.
+                                     Vivamus nec diam ut ipsum tincidunt ultricies. Vestibulum vitae arcu mi. 
                                 </p>
                                 <a href="#" class="primary-btn text-uppercase">View Details</a>
                                 <img class="img-fluid" src="img/u4.jpg" alt="">
@@ -88,13 +90,9 @@
             </section>
             <!-- End upcoming-event Area -->
 
-
         </main>
 
         <?php include 'footer.php';?>
-
-
-
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="main.js"></script>

@@ -1,4 +1,3 @@
-
 <footer class="bg-dark text-light pt-5">
   <div class="container px-5">
     <div class="row">
@@ -12,7 +11,7 @@
         <h4>Menu</h4>
         <ul class="list-unstyled pt-2">
           <li class="py-1">Home</li>
-          <li class="py-1">Shorts</li>
+          <li class="py-1">Exhibitions & Tours</li>
           <li class="py-1">About</li>
           <li class="py-1">Contact</li>
         </ul>
@@ -45,7 +44,7 @@
     </div>
     <hr>
     <div class="d-sm-flex justify-content-between py-1">
-      <p>2025 © Hello, Museum!. All Rights Reserved. </p>
+      <p class="text-center">2025 © Hello, Museum!. All Rights Reserved. </p>
       <p class="text-center ">
         <a href="#" class="text-light text-decoration-none pe-4">Terms of use</a>
         <a href="#" class="text-light text-decoration-none pe-4"> Privacy policy</a>

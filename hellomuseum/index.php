@@ -7,7 +7,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hello, museum!</title>
-
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+    
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
@@ -17,7 +18,7 @@
 
 <body>
 
-    <?php include 'header.php';?>
+ <?php include 'header.php';?>
 
    <main>
             <!--hero-->
@@ -41,7 +42,7 @@
                             <br> to the <span>imagination</span>.
 
                         </div>
-                        <div class="col-lg-6 quote-right py-5 px-1">
+                        <div class="col-lg-6 quote-right py-5 px-4">
                             <h2>Welcome</h2>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor

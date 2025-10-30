@@ -16,15 +16,9 @@
 </head>
 
 <body>
-
-
     <?php include 'header.php';?>
-
-
         <main>
-
             <!--hero-->
-
             <div class="hero-image">
                 <img src="img/header-bg.jpg" class="img-fluid" alt="">
                 <div class="hero-text pt-4">

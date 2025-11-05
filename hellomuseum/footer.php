@@ -33,16 +33,15 @@
           <li class="py-1">Carousels</li>
         </ul>
       </div>
-      <div class="col-6 col-lg-3 text-lg-end">
+     <div class="col-6 col-lg-3 text-lg-end">
         <h4>Social Media Links</h4>
-        <div class="social-media pt-2">
-          <a href="#" class="text-light fs-2 me-3"><i class="bi bi-facebook"></i></a>
-          <a href="#" class="text-light fs-2 me-3"><i class="bi bi-pinterest"></i></a>
-          <a href="#" class="text-light fs-2 me-3"><i class="bi bi-instagram"></i></a>
-          <a href="#" class="text-light fs-2"><i class="bi bi-linkedin"></i></a>
-        </div>
+        <ul class="social-media pt-2 ps-0 ms-0">
+          <li><a href="#" class="text-light fs-6 text-decoration-none p-0 ms-0 me-3">Facebook</a></li>
+          <li><a href="#" class="text-light fs-6 me-3 text-decoration-none ms-0 me-3">Pinterest</a></li>
+          <li><a href="#" class="text-light fs-6 me-3 text-decoration-none ms-0 me-3">Instagram</a></li>
+          <li><a href="#" class="text-light fs-6 text-decoration-none ms-0 me-3">Linkedin</a></li>
+        </ul>
       </div>
-    </div>
     <hr>
     <div class="d-sm-flex justify-content-between py-1">
       <p class="text-center">2025 © Hello, Museum!. All Rights Reserved. </p>

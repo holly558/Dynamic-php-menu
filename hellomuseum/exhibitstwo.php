@@ -17,12 +17,8 @@
 
 <body>
 
-
     <?php include 'header.php';?>
-
-
         <main>
-
             <!--hero-->
             <div class="hero-image">
                 <img src="img/header-bg.jpg" class="img-fluid" alt="">
@@ -41,18 +37,13 @@
                                  <hr>
                                 <img src="img/contact1.jpg" class="img-fluid" alt="">
                             </div>
-
-
-
                         </div>
                     </div>
                 </div>
             </section>
 
         </main>
-
-        <?php include 'footer.php';?>
-
+       <?php include 'footer.php';?>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="main.js"></script>

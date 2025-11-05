@@ -1,6 +1,5 @@
-<!Doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -16,15 +15,11 @@
 </head>
 
 <body>
-
-
+    
     <?php include 'header.php';?>
-
-
         <main>
-
+            
             <!--hero-->
-
             <div class="hero-image">
                 <img src="img/header-bg.jpg" class="img-fluid">
                 <div class="hero-text pt-4">
@@ -35,7 +30,6 @@
             <section class="contact section-gap" id="contact-us">
                 <div class="container">
                     <div class="row g-5 ">
-
                         <div class="col-lg-6 p-5 bg-dark text-light">
                             <h2 class="m">Get in Contact</h2>
                             <p>Take a look at our FAQs for answers to our most common queries, or get in touch using the contact form below. </p>
@@ -66,10 +60,9 @@
                             </div>
                         </div>
                         <div class="col-lg-6 px-4">
-                            <img src="img/museum.jpg" class="img-fluid" alt="">
+                          <img src="img/museum.jpg" class="img-fluid" alt="">
                         </div>
                     </div>
-
                 </div>
 
             </section>
@@ -77,7 +70,6 @@
         </main>
 
         <?php include 'footer.php';?>
-
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="main.js"></script>

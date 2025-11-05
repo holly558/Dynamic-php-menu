@@ -15,13 +15,9 @@
 </head>
 
 <body>
-
-
+    
     <?php include 'header.php';?>
-
-
         <main>
-
             <!--hero-->
             <div class="hero-image">
                 <img src="img/header-bg.jpg" class="img-fluid" alt="">
@@ -29,7 +25,6 @@
                     <h2>Exhibitions > Events 3</h2>
                 </div>
             </div>
-
             <section class="exhibit section-gap" id="exhibition">
                 <div class="container text-center">
                     <div class="row justify-content-center">
@@ -40,18 +35,13 @@
                                  <hr>
                                 <img src="img/contact1.jpg" class="img-fluid" alt="">
                             </div>
-
-
-
                         </div>
                     </div>
                 </div>
             </section>
-
         </main>
 
         <?php include 'footer.php';?>
-
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="main.js"></script>

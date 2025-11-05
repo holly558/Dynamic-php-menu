@@ -27,7 +27,6 @@ ul li {
   list-style-type: none;
 }
 
-
 .mynav{
 background-color: rgba(0, 0, 0, 0.4);
 top: 0;
@@ -87,7 +86,7 @@ margin-top: 5px;
 font-size: 14px;
 color: #fff;
 border-color:#198754;
-margin-top: 5px;
+margin-top: 3px;
 
 }
 .section-gap {

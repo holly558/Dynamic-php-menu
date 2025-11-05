@@ -12,7 +12,10 @@ body {
   font-size: 14px;
   font-weight: 300;
   line-height: 2.625em;
+}
 
+body, html{
+ overflow-x:hidden;
 }
 
 .brand{
@@ -91,12 +94,11 @@ padding: 80px 0;
 padding-bottom: 30px;
 }
 
-
 /*===============Home page================*/
 .hero-image{
   position: relative;
+  overflow: hidden;
 }
-
 
 .hero-text {
 font-family: "Times New Roman", serif;
@@ -108,9 +110,11 @@ left: 50%;
 transform: translate(-50%, -60%);
 color:#fff;
 }
+
 .hero-text h1{
 font-size: 18px;
 }
+
 .hero-text h2{
 font-size: 16px;
 font-family: "Times New Roman", Times, serif;
@@ -144,7 +148,6 @@ position: relative;
 z-index: 10;
 }
 
-
 .quote-area .quote-left{
 font-family: "Times New Roman", Times, serif;  
 color: cream;
@@ -172,10 +175,6 @@ font-size: 29px;
 padding: 0px 40px;
 }
 }
-
-
-
-
 /*===============Events page================*/
 .upcoming-event-area .event-left .single-events {
 margin-bottom: 50px;
@@ -246,6 +245,7 @@ cursor: pointer;
 text-transform: uppercase;
 position: relative;
 }
+
 a.primary-btn, .primary-btn  {
 background-color: #88d200;
 line-height: 42px;
@@ -267,17 +267,15 @@ cursor: pointer;
 text-transform: uppercase;
 position: relative;
 }
+
 .primary-btn:hover {
 color: #88d200;
 background-color: transparent;
 border-color: #88d200;
 }
-
 /*===============Exhibitions page================*/
 
 /*no css*/
 
 /*===============Contact page================*/
-
-
 /*no css*/

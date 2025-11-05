@@ -36,10 +36,10 @@
      <div class="col-6 col-lg-3 text-lg-end">
         <h4>Social Media Links</h4>
         <ul class="social-media pt-2 ps-0 ms-0">
-          <li><a href="#" class="text-light fs-6 text-decoration-none p-0 ms-0 me-3">Facebook</a></li>
-          <li><a href="#" class="text-light fs-6 me-3 text-decoration-none ms-0 me-3">Pinterest</a></li>
-          <li><a href="#" class="text-light fs-6 me-3 text-decoration-none ms-0 me-3">Instagram</a></li>
-          <li><a href="#" class="text-light fs-6 text-decoration-none ms-0 me-3">Linkedin</a></li>
+          <li><a href="#" class="text-light text-decoration-none p-0 ms-0 me-3">Facebook</a></li>
+          <li><a href="#" class="text-light me-3 text-decoration-none ms-0 me-3">Pinterest</a></li>
+          <li><a href="#" class="text-light me-3 text-decoration-none ms-0 me-3">Instagram</a></li>
+          <li><a href="#" class="text-light text-decoration-none ms-0 me-3">Linkedin</a></li>
         </ul>
       </div>
     <hr>

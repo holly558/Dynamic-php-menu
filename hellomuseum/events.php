@@ -1,4 +1,4 @@
-<!Doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -69,11 +69,10 @@
                                 <img class="img-fluid" src="img/u2.jpg" alt="">
                             </div>
                             <div class="single-events">
-
                                 <a href="#"><h4>Event on the rock solid carbon</h4></a>
                                 <h6><span>21st February</span> at Central government museum</h6>
                                 <p>
-                                     Vivamus nec diam ut ipsum tincidunt ultricies. Vestibulum vitae arcu mi. 
+                                 Vivamus nec diam ut ipsum tincidunt ultricies. Vestibulum vitae arcu mi. 
                                 </p>
                                 <a href="#" class="primary-btn text-uppercase">View Details</a>
                                 <img class="img-fluid" src="img/u4.jpg" alt="">

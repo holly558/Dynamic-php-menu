@@ -1,4 +1,4 @@
-<!Doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,7 +42,6 @@
                     </div>
                 </div>
             </section>
-
         </main>
 
         <?php include 'footer.php';?>

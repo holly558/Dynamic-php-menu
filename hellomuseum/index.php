@@ -1,5 +1,5 @@
 <!--Museum application with dynamic php script-->
-<!Doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
